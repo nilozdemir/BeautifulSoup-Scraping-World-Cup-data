@@ -1,2 +1,4 @@
 # BeautifulSoup-Scraping-World-Cup-data
-Advanced Programming Assignment
+Sports Analytics\
+*Advanced Programming Assignment*
+
