@@ -1,4 +1,4 @@
-# BeautifulSoup-Scraping-World-Cup-data
-Sports Analytics\
-*Advanced Programming Assignment*
+# END2971
+*Advanced Programming Class Assignment* <br />
+Data scraping with BS4
 
